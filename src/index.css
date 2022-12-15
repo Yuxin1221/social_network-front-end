@@ -1,0 +1,141 @@
+
+body{
+    background-color: rgb(243, 218, 218);
+}
+
+h1{
+    text-align: center;
+    font-family: "Gill Sans Extrabold", sans-serif;
+    font-weight: 200;
+    font-size: 4em;
+}
+
+div{
+    text-align: center;
+    
+}
+
+h2{
+    text-align: center;
+    font-family: "Gill Sans Extrabold", sans-serif;
+    
+    font-size: 1em;
+
+
+}
+
+.instruction{
+    text-align: center;
+    font-family: "Gill Sans Extrabold", sans-serif;
+    font-weight: 100;
+    font-size: 1em;
+
+}
+
+.btn {
+    background: linear-gradient(to bottom right, #da6e8d, #fdbed0);
+    border: 0;
+    border-radius: 10px;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: -apple-system,system-ui,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 2.5;
+    outline: transparent;
+    padding: 0 1rem;
+    text-align: center;
+    text-decoration: none;
+    transition: box-shadow .2s ease-in-out;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    width:5;
+   
+  
+  }
+  .btn:not([disabled]):focus {
+    box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(238, 70, 140, 0.5), .125rem .125rem 1rem rgba(255, 90, 200, 0.5);
+  }
+  
+  .btn:not([disabled]):hover {
+    box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(239, 71, 175, 0.5), .125rem .125rem 1rem rgba(255, 90, 186, 0.5);
+  }
+  
+
+ 
+ .post{
+    font-family: Arial;
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: bold;
+    color: black;
+    padding: 20px;
+    background:
+      linear-gradient(to top, #f3abc3, #f3919e 10px, transparent 10px),
+      linear-gradient(to right, #f3abc3, #f3919e   10px, transparent 10px),
+      linear-gradient(to bottom, #f3abc3, #f3919e    10px, transparent 10px),
+      linear-gradient(to left, #f3abc3, #f3919e   10px, transparent 10px);
+  background-origin: border-box;
+}
+
+
+    .box {
+        width:90%;
+        padding:auto 10px;
+        background-color:#ffcfd3;
+        font-size: 1.2em;
+        font-weight:bold;
+        font-family: Times New Roman;
+        margin: 20px auto;
+    }
+    .bigBox {
+        width: 95%;
+        padding:auto 10px;
+        background-color:#e6c7cd;
+        font-size: 1.2em;
+        font-weight:bold;
+        font-family: Times New Roman;
+        margin: 20px auto;
+    }
+    
+    input:not(.btn,.feed,.headline){
+        width:25%;
+       background-color:#f3dce2;
+       outline-style: none ;
+    border: 1px solid #ccc; 
+    height:30px
+        
+        
+    }
+    
+    .navigation{
+        width:100%;
+        background-color:  #e6cedb;
+        padding: 0.8em 1em 1em 0.8em;
+     
+        font-size: 1.2em;
+        font-family: Times New Roman;
+        margin: 5px auto;
+
+        
+    }
+
+    .feed{
+
+        width:40%;
+        background-color:#f5e7eb;
+        outline-style: none ;
+     border: 1px solid rgb(187, 150, 154); 
+     height:30px
+    }
+    .error{
+        height: 2px;
+        color: #cf004f;
+        font-size: 0.8em;
+        font-weight:normal;
+        font-family: Microsoft JhengHei;
+        margin: 20px auto;
+    }

@@ -1,0 +1,20 @@
+{"followings":[{
+	"id":1,
+	"name":"Mack",
+	"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbdSezEvryc6Gw51mAspxGm-DUwGwPuX109GY_wGt8UMCJnIexYR4Anvsk8WK0-3EqW3c&usqp=CAU",
+	"status":"I am studying"
+	},
+	{
+	"id":2,
+	"name":"Yixin",
+	"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbdSezEvryc6Gw51mAspxGm-DUwGwPuX109GY_wGt8UMCJnIexYR4Anvsk8WK0-3EqW3c&usqp=CAU",
+	"status":"I am reading"
+	},
+	{
+	"id":3,
+	"name":"Israel",
+	"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpdQTr0Z3d9xSU394q9AsgL2UrgkraHXqOcQ&usqp=CAU",
+	"status":"I am swimming "
+	}
+]
+}
